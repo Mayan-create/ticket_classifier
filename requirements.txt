@@ -1,0 +1,9 @@
+Requirement 
+1- numpy 
+2 - pandas-
+3 - gradio
+4-  nltk.download('punkt')
+5-nltk.download('stopwords')
+6-nltk.download('wordnet')
+7-nltk.download('wordnet')
+8-nltk.download('omw-1.4')
